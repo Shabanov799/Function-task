@@ -104,5 +104,3 @@ function checkInputs() {
 
 
 
-// task
-// 7. table row-dan seçilən datanı silmək (Bonus)                                                        X
